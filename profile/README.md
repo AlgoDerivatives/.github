@@ -2,7 +2,7 @@
 ![](./images/algoderivatives_logotype.png)
 # AlgoDerivatives.
 
-## AlgoDerivatives is a decentralized options and futures marketplace built on and powered by Algorand.
+## AlgoDerivatives is a decentralized options and futures market built on and powered by Algorand.
 
 This organization contains AlgoDerivatives repositories and projects.
 
